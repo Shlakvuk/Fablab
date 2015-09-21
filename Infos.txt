@@ -7,6 +7,15 @@ I	- Le Fablab
 II 	- Le Robot
 III 	- L'ido
 
+I - Le Fablab 
+
+Contraction provenant de l'anglais, les Fablab (Fabrication Laboratory) sont des laboratoires implantés un peu partout dans le monde. Ils ont pour but de mettre à disposition du grand public un lieu contenant des outils spécifiques et du matériel de pointe.
+
+Un fablab doit suivre une certaine charte afin de pouvoir être désigné en tant que tel. Ceux-ci ont pour ligne directrice d'être participatifs, ouverts et d'encadrer, par des FabManagers les différentes activités des membres afin de mener à bien leurs projets. 
+
+	1. Les Fablabs en France :
+
+	2. Le Fablab de Lannion :
 
 
 III	-L'ido
