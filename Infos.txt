@@ -7,31 +7,29 @@ I	- Le Fablab
 II 	- Le Robot
 III 	- L'ido
 
-I 	- Le Fablab 
+I - Le Fablab 
 
-	Contraction provenant de l'anglais, les Fablab (Fabrication Laboratory) sont des laboratoires implantés un peu partout dans le monde. Ils ont pour but de mettre à disposition du grand public un lieu contenant des outils spécifiques et du matériel de pointe.
+Contraction provenant de l'anglais, les Fablab (Fabrication Laboratory) sont des laboratoires implantés un peu partout dans le monde. Ils ont pour but de mettre à disposition du grand public un lieu contenant des outils spécifiques et du matériel de pointe.
 
-	Un fablab doit suivre une certaine charte afin de pouvoir être désigné en tant que tel. Ceux-ci ont pour ligne directrice d'être participatifs, ouverts et d'encadrer, par des FabManagers les différentes activités des membres afin de mener à bien leurs projets. 
+Un fablab doit suivre une certaine charte afin de pouvoir être désigné en tant que tel. Ceux-ci ont pour ligne directrice d'être participatifs, ouverts et d'encadrer, par des FabManagers les différentes activités des membres afin de mener à bien leurs projets. 
+
 
 	1. Les Fablabs en France :
 
+Originellement, en France des espaces publics numériques (EPN) ont été crées depuis la fin des années 90. Ces espaces font intervenir un(plusieurs) animateur(s) et permettent aux utilisateurs de bien maitriser les outils et les services proposés. Depuis 2013, le gouvernement incite ces espaces à se convertir en Fablabs.
+
+A l'heure actuelle on compte 99 fablabs en France, situés globalement partout dans le pays. 
+
+
 	2. Le Fablab de Lannion :
 
+Le Fablab de Lannion contient un équipement très complet : fraiseuses, découpeuses laser et à plasma, défonçeuses CNC, imprimantes 3D, chaines CMS, machine à broder/coudre numérique, thermoplieuse, générateurs de signaux, oscilloscopes & multimètres et les outils à main de base.
 
-III	-L'Internet des objets
+Le Fablab ouvre tous les mercredis soirs. Chaque soir, au moins un Fabmanager est présent afin d'encadrer les projets et de pouvoir utiliser à bien les outils présents. 
 
-	L'internet des objets ido (Iot en anglais) est par définition l'utilisation des réseaux par des objets.Il se distingue de l'internet classique par la nature de l'interaction. En effet on parle ici de l'interaction de divers objets avec le net sans intervention d'humain. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
-
-	Originaire de réseau de machines (nottament des ordinateurs), puis de puces RFID, les objets sont enfin devenus capables d'utiliser le protocole IP et sont donc devenus des "objets connectés".
-
-	Dans le cadre de notre projet technologique il est question de faire usage de cette technologie émergente, et ce par le bié de différents outils. Ceux-ci comprennent 
+Notre projet vise à prendre part à ces rassemblements et apporter des points de vues d'élèves ingénieurs de l'Enssat au sein des projets afin de renforcer le lien Enssat/Fablab.
 
 
-Glossaire :
+III	-L'ido
 
-Iot : Internet of things, traduit en français par internet des objets (ido).
-
-Domotique : Se dit de l'ensemble des techniques de l'électronique, de l'informatique, des télécommunications et de l'automatisme utilisées dans le bâtiment. On peut y associer simplement l'image de la maison intelligente, qui gère automatiquement le chauffage ou encore l'éclairage.
-
-RFID : Radio frequency identification, soit radio identification.
-
+	Internet des objets (Iot en anglais) est par définition l'utilisation des réseaux par des objets. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
