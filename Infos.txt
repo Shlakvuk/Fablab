@@ -9,6 +9,7 @@ III 	- L'ido
 
 
 
-III	-L'ido
+III	-L'Internet
 
-	Internet des objets (Iot en anglais) est par définition l'utilisation des réseaux par des objets. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
+	des objets ido (Iot en anglais) est par définition l'utilisation des réseaux par des objets. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
+Ici siège le test pour le permier merge, on va voir comment tout ça fonctionne.
