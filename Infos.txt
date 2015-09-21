@@ -59,6 +59,10 @@ III	-L'Internet des objets
 
 	Dans le cadre de notre projet technologique il est question de faire usage de cette technologie émergente, et ce par le bié de différents outils. Ceux-ci comprennent 
 
+IV	-FabManager
+
+	En plus d'un projet pédagogique, l'inscription dans la collaboration ave le fablab est plus forte. Celle-ci implique le gain du status de fabManager, compétent sur les machnies et capable d'organiser la tenue du fablab.
+
 
 Glossaire :
 
