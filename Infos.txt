@@ -29,6 +29,27 @@ A l'heure actuelle on compte 99 fablabs en France, situés globalement partout d
 
 	Notre projet vise à prendre part à ces rassemblements et apporter des points de vues d'élèves ingénieurs de l'Enssat au sein des projets afin de renforcer le lien Enssat/Fablab.
 
+II - Le robot 
+
+Le projet a été commencé l'an dernier par un élève en charge du projet. Il a réalise la pré-étude et a retenu la plateforme InMoov qui propose des plans pour réaliser un robot humanoïde à l'aide d'une imprimante 3D.
+
+	1. Travail réalisé :
+
+	L'étudiant s'est focalisé sur la main et a réalisé une étude pour sélectionner les servo-moteurs, les cartes, et a programmé le code afin de pouvoir tester et rendre fonctionnel cette main.
+
+	???
+	Questions : 
+	Etat d'avancement
+	Qu'a t-il fait
+	Histoire de couple?
+	Pourquoi un Beaglebone
+
+	2. Travail à fournir :
+
+	Continuer l'avant bras & bras?
+	Commencer entièrement la tête
+	
+	
 
 III	-L'Internet des objets
 
