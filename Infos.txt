@@ -7,18 +7,31 @@ I	- Le Fablab
 II 	- Le Robot
 III 	- L'ido
 
-I - Le Fablab 
+I 	- Le Fablab 
 
-Contraction provenant de l'anglais, les Fablab (Fabrication Laboratory) sont des laboratoires implantés un peu partout dans le monde. Ils ont pour but de mettre à disposition du grand public un lieu contenant des outils spécifiques et du matériel de pointe.
+	Contraction provenant de l'anglais, les Fablab (Fabrication Laboratory) sont des laboratoires implantés un peu partout dans le monde. Ils ont pour but de mettre à disposition du grand public un lieu contenant des outils spécifiques et du matériel de pointe.
 
-Un fablab doit suivre une certaine charte afin de pouvoir être désigné en tant que tel. Ceux-ci ont pour ligne directrice d'être participatifs, ouverts et d'encadrer, par des FabManagers les différentes activités des membres afin de mener à bien leurs projets. 
+	Un fablab doit suivre une certaine charte afin de pouvoir être désigné en tant que tel. Ceux-ci ont pour ligne directrice d'être participatifs, ouverts et d'encadrer, par des FabManagers les différentes activités des membres afin de mener à bien leurs projets. 
 
 	1. Les Fablabs en France :
 
 	2. Le Fablab de Lannion :
 
 
-III	-L'Internet
+III	-L'Internet des objets
 
-	des objets ido (Iot en anglais) est par définition l'utilisation des réseaux par des objets. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
-Ici siège le test pour le permier merge, on va voir comment tout ça fonctionne.
+	L'internet des objets ido (Iot en anglais) est par définition l'utilisation des réseaux par des objets.Il se distingue de l'internet classique par la nature de l'interaction. En effet on parle ici de l'interaction de divers objets avec le net sans intervention d'humain. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
+
+	Originaire de réseau de machines (nottament des ordinateurs), puis de puces RFID, les objets sont enfin devenus capables d'utiliser le protocole IP et sont donc devenus des "objets connectés".
+
+	Dans le cadre de notre projet technologique il est question de faire usage de cette technologie émergente, et ce par le bié de différents outils. Ceux-ci comprennent 
+
+
+Glossaire :
+
+Iot : Internet of things, traduit en français par internet des objets (ido).
+
+Domotique : Se dit de l'ensemble des techniques de l'électronique, de l'informatique, des télécommunications et de l'automatisme utilisées dans le bâtiment. On peut y associer simplement l'image de la maison intelligente, qui gère automatiquement le chauffage ou encore l'éclairage.
+
+RFID : Radio frequency identification, soit radio identification.
+
