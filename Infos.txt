@@ -6,3 +6,9 @@ Ici vont aller les informations générales concernant le projet technologique F
 I	- Le Fablab
 II 	- Le Robot
 III 	- L'ido
+
+
+
+III	-L'ido
+
+	Internet des objets (Iot en anglais) est par définition l'utilisation des réseaux par des objets. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique (def à inclure). 
