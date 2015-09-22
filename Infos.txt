@@ -48,8 +48,13 @@ Le projet a été commencé l'an dernier par un élève en charge du projet. Il 
 
 	Continuer l'avant bras & bras?
 	Commencer entièrement la tête
-	
-	
+	Constitution donnée de la tête :
+		- 5 Servos (1 cervical, 1 machoire, 3 yeux) Il est à préciser que le servo cervical et de machoire sont "encastrés" dans la tête et ont donc une dimension précise par rapport aux pièces. La gamme de choix de servos peut donc être sévèrement réduite en raison de cette contrainte. 
+		- 2 Cameras (chaque oeil) Il est à noter ici qu'il n'est donné aucune précision sur le contrôle ou l'utilisation de ces caméras. Libre donc à nous de nous en servir.
+		- Le contrôle du mouvement de hochement de tête est très certainment dans le torse, le piston controllant ce mouvement allant d'un bout à l'autre du cou. Il est donc ajoutable mais "extérieur" à la tête.
+		- Pour ce qui concerne le crâne, il est possible que l'on choisisse de ne pas les produire à l'imprimante 3D, en fonction de la contrainte de temps. En effet ces pièces sont surtout surfaciques, et n'ont pas de fonction primordiale si ce n'est le maintien relatif des pièces. Il est donc envisageable de choisir une autre solution pour former ces pièces. (à vérifier pour les yeux) 
+
+
 
 III	-L'Internet des objets
 
@@ -57,7 +62,7 @@ III	-L'Internet des objets
 
 	Originaire de réseau de machines (nottament des ordinateurs), puis de puces RFID, les objets sont enfin devenus capables d'utiliser le protocole IP et sont donc devenus des "objets connectés".
 
-	Dans le cadre de notre projet technologique il est question de faire usage de cette technologie émergente, et ce par le bié de différents outils. Ceux-ci comprennent 
+	Dans le cadre de notre projet technologique il est question de faire usage de cette technologie émergente, et ce par le bié de différents outils. Ceux-ci comprennent (LoRa, CoAp, 6LoWPAN, ESP8266)
 
 IV	-FabManager
 
