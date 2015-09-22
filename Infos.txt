@@ -37,12 +37,11 @@ Le projet a été commencé l'an dernier par un élève en charge du projet. Il 
 
 	L'étudiant s'est focalisé sur la main et a réalisé une étude pour sélectionner les servo-moteurs, les cartes, et a programmé le code afin de pouvoir tester et rendre fonctionnel cette main.
 
-	???
-	Questions : 
-	Etat d'avancement
-	Qu'a t-il fait
-	Histoire de couple?
-	Pourquoi un Beaglebone
+	Etat d'avancement de la main : La main nous sera donnée, poignet il manque un servo. Il faut acheter les ax12. Réalisation de l'avant bras (PVC~, Fibre de verre, plâtre). Revoir le PCB (un composant manquant).
+	Histoire de couple : utilité du beaglebone.
+	Pourquoi un Beaglebone : utilité des IO
+
+	Note : c'est à nous d'évaluer si oui ou non il faut terminer la main ou paser directement sur une autre partie. Le bras ? Seulement l'avant bras est "conçu".
 
 	2. Travail à fournir :
 
@@ -50,9 +49,9 @@ Le projet a été commencé l'an dernier par un élève en charge du projet. Il 
 	Commencer entièrement la tête
 	Constitution donnée de la tête :
 		- 5 Servos (1 cervical, 1 machoire, 3 yeux) Il est à préciser que le servo cervical et de machoire sont "encastrés" dans la tête et ont donc une dimension précise par rapport aux pièces. La gamme de choix de servos peut donc être sévèrement réduite en raison de cette contrainte. 
-		- 2 Cameras (chaque oeil) Il est à noter ici qu'il n'est donné aucune précision sur le contrôle ou l'utilisation de ces caméras. Libre donc à nous de nous en servir.
-		- Le contrôle du mouvement de hochement de tête est très certainment dans le torse, le piston controllant ce mouvement allant d'un bout à l'autre du cou. Il est donc ajoutable mais "extérieur" à la tête.
-		- Pour ce qui concerne le crâne, il est possible que l'on choisisse de ne pas les produire à l'imprimante 3D, en fonction de la contrainte de temps. En effet ces pièces sont surtout surfaciques, et n'ont pas de fonction primordiale si ce n'est le maintien relatif des pièces. Il est donc envisageable de choisir une autre solution pour former ces pièces. (à vérifier pour les yeux) 
+		- 2 Cameras (chaque oeil) Utilisées pour de la detection de mouvement. Un soft open-source est déjà disponible. L'idée étant de suivre le mouvement avec les  yeux et la tête. 
+		- Le contrôle du mouvement de hochement de tête est dans le torse, le piston controllant ce mouvement allant d'un bout à l'autre du cou. Il est donc ajoutable mais "extérieur" à la tête. Celui-ci sera donc fixé sur un support, il est nécessaire au mouvement complet de la tête.
+		- Pour ce qui concerne le crâne, il est possible que l'on choisisse de ne pas les produire à l'imprimante 3D, en fonction de la contrainte de temps. En effet ces pièces sont surtout surfaciques, et n'ont pas de fonction primordiale si ce n'est le maintien relatif des pièces. Il est donc envisageable de choisir une autre solution pour former ces pièces. 
 
 
 
@@ -64,9 +63,12 @@ III	-L'Internet des objets
 
 	Dans le cadre de notre projet technologique il est question de faire usage de cette technologie émergente, et ce par le bié de différents outils. Ceux-ci comprennent (LoRa, CoAp, 6LoWPAN, ESP8266)
 
+	Il est envisageable d'intégrer de l'Iot au sein même du projet robot humanoïde, en effet si on peut diffuser un flux vidéo en radio on peut éventuellement concevoir une mode "slave" du robot. Il consisterai à avoir un utilisateur controllant le mouvement de la tête avec le feedback du flux vidéo(qui sait il pourrait même être possible de concevoir ça pour un casque de RV). Une autre idée serait d'inclure du son pour l'interaction avec l'homme. En ajoutant un haut-parleur recevant depuis un contrôlleur distant ( +micro -> ancien projet android avec synthèse vocale, ex cortana). Une autre idée est d'avoir le robot en "stand-by" lorsque quelqu'un active un détecteur distant celui-ci réactive le robot qui alors suit le mouvement de la personne. La dernière idée est d'introduire de la reconaissance faciale.  
+
+
 IV	-FabManager
 
-	En plus d'un projet pédagogique, l'inscription dans la collaboration ave le fablab est plus forte. Celle-ci implique le gain du status de fabManager, compétent sur les machnies et capable d'organiser la tenue du fablab.
+	En plus d'un projet pédagogique, l'inscription dans la collaboration ave le fablab est plus forte. Celle-ci implique le gain du status de fabManager, compétent sur les machnies (principalement l'imprimante 3d) et capable d'organiser la tenue du fablab.
 
 
 Glossaire :
