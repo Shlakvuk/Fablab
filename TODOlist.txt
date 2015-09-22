@@ -1,0 +1,6 @@
+La TODOList, qui est une liste de TODO !
+
+
+-Présentation de nous même et du projet sur le forum du fablab.
+-Récupérer les soft d'interfaçage avec le beaglebone
+-Commencer à se servir du soft ...
