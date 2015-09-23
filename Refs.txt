@@ -14,21 +14,33 @@ http://www.hobbyking.com/hobbyking/store/__6221__Towerpro_MG996R_10kg_Servo_55g_
 Tête :
 
 	- Servo de rotation de la tête 
+Voltage ok.
 http://www.hobbyking.com/hobbyking/store/__9810__Hitec_HS_805BB_Mega_1_4_Scale_servo_19_8kg_152g_0_19sec.html?gclid=CPP0hZPhjMgCFQ63Gwodiz0PNA
 
 	- Servo "gorge" 
+Voltage ok.
 http://www.hobbyking.com/hobbyking/store/__9810__Hitec_HS_805BB_Mega_1_4_Scale_servo_19_8kg_152g_0_19sec.html?gclid=CPP0hZPhjMgCFQ63Gwodiz0PNA
 
 	- Servo de mâchoire
+Voltage ok.
 http://www.hobbyking.com/hobbyking/store/__16271__HobbyKing_8482_HK15298_High_Voltage_Coreless_Digital_Servo_MG_BB_66g_15kg_0_11s.html
+
+Voltage ok.
+http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28969
 
 	- Servo yeux
 
+6V? ???? ? ?? ?
 http://hobbyking.com/hobbyking/store/__19961__Corona_DS929HV_7_4v_MG_Digital_Servo_2_4kg_12_5g_0_09sec.html
+
+Voltage ok.
+http://hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=23925
 
 
 Budget : 
 
 Bras : 9.68 + 5 * 46.80 = 243.68€
 
-Tête : 27.45*2 + 17.55 + 7.20*3 = 94.05€ (budget "minimaliste" pour les servos de la tête)
+Tête : 27.45*2 + 17.55 + 7.20*3 = 94.05€ (budget pour les servos de la tête)
+
+	27.45*2 + 4.49 + 7.20*3 = 80.99€ (budget "minimaliste" pour les servos de la tête)
