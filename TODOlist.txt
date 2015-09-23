@@ -2,7 +2,6 @@ La TODOList, qui est une liste de TODO !
 
 
 -Présentation du projet sur le forum du fablab.
--Récupérer les soft d'interfaçage avec le beaglebone
 -Commencer à se servir du soft ...
 -Etablissement de la liste des servos à acheter, et globalement du budget (avec et sans main)
 -Chercher le soft pour les caméras, ainsi qu'un open source pour la reco-faciale. 
