@@ -1,0 +1,28 @@
+
+
+Main :
+
+
+
+
+
+(Les refs pour la tête ne sont pas définitives, elles donnent un ordre de prix) 
+Tête :
+
+	- Servo de rotation de la tête 
+ http://www.hobbyking.com/hobbyking/store/__9810__Hitec_HS_805BB_Mega_1_4_Scale_servo_19_8kg_152g_0_19sec.html?gclid=CPP0hZPhjMgCFQ63Gwodiz0PNA
+
+	- Servo de mâchoire
+http://www.hobbyking.com/hobbyking/store/__16271__HobbyKing_8482_HK15298_High_Voltage_Coreless_Digital_Servo_MG_BB_66g_15kg_0_11s.html
+
+	- Servo yeux
+
+
+
+
+Budget : 
+
+Bras : 
+
+Tête : 
+
