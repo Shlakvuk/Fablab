@@ -3,6 +3,10 @@
 Main :
 
 
+ 	- doigts de la main : 
+http://www.generationrobots.com/fr/401075-servomoteur-dynamixel-ax-12-a-robotis.html
+	- servo du poignet : 
+http://www.hobbyking.com/hobbyking/store/__6221__Towerpro_MG996R_10kg_Servo_55g_10kg_20sec.html
 
 
 
@@ -25,6 +29,6 @@ http://hobbyking.com/hobbyking/store/__19961__Corona_DS929HV_7_4v_MG_Digital_Ser
 
 Budget : 
 
-Bras : 
+Bras : 9.68 + 5 * 46.80 = 243.68€
 
 Tête : 27.45*2 + 17.55 + 7.20*3 = 94.05€ (budget "minimaliste" pour les servos de la tête)
