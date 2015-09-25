@@ -55,6 +55,25 @@ Le projet a été commencé l'an dernier par un élève en charge du projet. Il 
 
 
 
+	3. 1° semaine : 
+
+	On est parti sur la tête. 
+	Débroussaillement de la vision. On a pensé à essayer d'implanter la stéréoscopie avec 2 caméras.
+
+	On a pour l'instant 1 caméra sur laquelle on a réussi a récuperer le flux video et le diffuser grace à VLC. Le but final étant de récuperer le flux de la caméra directement.
+	Nous avons recupere un software open source myrobotlab qui permet d'interface le robot avec un ordinateur. Nous nous en servirons pour piloter le robot et effectuer les traitements de motion tracking directement sur le pc pour envoyer par la suite les instructions vers le robot.
+
+	On a équipé la salle avec 1 alim, 1 oscillo, et de quoi monter des proto de cartes elec. On a quelques servo qu'on va essayer de faire marcher avec l'interface myrobotlab et un arduino uno. Ainsi on pourra controler Inmoov avec un ordinateur fixe.
+
+
+TODO :	Passer au fablab et rencontrer les gens, se renseigner sur l'orga.
+	Continuer le motion tracking
+	Réussir à interfacer servo / arduino / pc 
+	Faire un point sur les pièces à imprimer voir la dispo des 3D printers
+
+
+
+
 III	-L'Internet des objets
 
 	L'internet des objets ido (Iot en anglais) est par définition l'utilisation des réseaux par des objets.Il se distingue de l'internet classique par la nature de l'interaction. En effet on parle ici de l'interaction de divers objets avec le net sans intervention d'humain. Un exemple simple est l'envoi d'information par un capteur sur le réseau. Un des principaux domaines d'application est la domotique. 
