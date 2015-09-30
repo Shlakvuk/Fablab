@@ -1,0 +1,45 @@
+Etat d'avancement du projet:
+
+#Notes:
+#
+#IOT : 
+#	-Pour le moment plus des concepts que des décisions exactes sur le développement. Pour plus de détails sur ces idées se conférer à Infos.txt. 
+#
+
+(30/09/15)
+
+Tête : 
+	
+	-Build de myrobotlab réussi, l'implémentation du service est possible (au final pour le client utilisant le .jar).
+	-Le build local à résolu les problèmes sur la machine unity (le problème est donc probablement les dependencies)	
+	-Paramétrage de la caméra pour un flux vidéo accepté par gstreamer/openCv réussi. On peut donc utiliser le soft indirectement avec la caméra.
+	-Première prise en main de l'outil "Tracking" utilisation des premiers filtres et premier regard sur le code (l'architecture).
+	-Première visite du fablab à 18h jusqu'à ~20h.
+	-Choix de l'ordre de fabrication des pièces.	
+
+Autres :
+		
+	-Passage de la machine unity à la version 15.04, non sans conséquences (pb avec les ppa). Presque tout a été résolu, Vlc à un problème pour record (file or stream ...)
+	-Workaround : streamer depuis l'autre machine. 
+	
+(25/09/15)
+
+Main :
+
+	-Décision de mettre de côté la main pour le moment, il nous faut évaluer le travail pour la tête dans un premier lieux. L'intérêt des fonctionnalités possibles de la tête nous attire plus pour le moment également.	
+
+Tête : 
+
+	-Mise en place du repository Git
+	-Rédaction des premières idées sur le robot et d'informations générales, en .txt et en .odt
+	-Mise en place d'un budget prévisionel avec les références vers les servos. Reste à ajouter les caméras.
+	-Inscription au Fablab, présentation faite.
+	-Esquisse d'un post sur le forum fablab de notre projet, à perminer et poster.
+	-Récupération d'une alimentation, un oscilloscope et de quoi monter des prototypes de cartes élec. 
+	-Des servos (ceux des yeux) nous ont étés prêtés avec un arduino pour commencer l'interfaçage avec le framework.
+	-Récupération du framework, cependant problématique au lancement sur la machine unity.
+	-Mise en place d'un flux vidéo avec la caméra à utiliser avec le service openCv du framework. Encore non fonctionnel pour le moment.
+	
+
+
+

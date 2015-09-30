@@ -53,25 +53,19 @@ Le projet a été commencé l'an dernier par un élève en charge du projet. Il 
 		- Le contrôle du mouvement de hochement de tête est dans le torse, le piston controllant ce mouvement allant d'un bout à l'autre du cou. Il est donc ajoutable mais "extérieur" à la tête. Celui-ci sera donc fixé sur un support, il est nécessaire au mouvement complet de la tête.
 		- Pour ce qui concerne le crâne, il est possible que l'on choisisse de ne pas les produire à l'imprimante 3D, en fonction de la contrainte de temps. En effet ces pièces sont surtout surfaciques, et n'ont pas de fonction primordiale si ce n'est le maintien relatif des pièces. Il est donc envisageable de choisir une autre solution pour former ces pièces. 
 
+	
+	3. Travail en cours :
 
+	Après une première réflexion lors de la première semaine de travail, il nous a parru moins intéressant de continuer ce projet plutôt que de partir directement sur la tête. D'autant que le budget nécessaire à l'achat des ax12 est assez élevé et la contrainte du beaglebone risque d'entraver le projet de la tête.
+	Ceci s'explique par le fait que l'avantage du beaglebone est de disposer de 5 ports UART. Permettant ainsi la commande des ax12 pat un seul port UART. Cependant cet avantage de ports UART se perd en PWM, ne disposant que de 8 d'entre eux il faut pour pouvoir utiliser un maximum de servos type ax12. Ainsi il faut en partie revoir la conception du bras et du crâne, créant une contrainte supplémentaire.
+	Nous sommes donc plus à même de laisser de côté la main/bras, quitte à reprendre plus tard.
 
-	3. 1° semaine : 
+	
+	Le matériel nécessaire au montage électrique a été fourni. Permettant de faire fonctionner les servos et l'arduino. Il faut cependant encore prendre conaissance de l'interfaçage avec le matériel.
+	En effet un framework OpenSource a été trouvé, il s'agit de Myrobotlab, plateforme java permettant de nombreuses fonctionnalités et implémente le contrôle des servos pour InMoov. Cette plateforme interface donc avec l'arduino, mais il nous reste à trouver comment exactement. Elle importe également un portage java de OpenCv librairie servant à manipuler des flux vidéos enregistrés pour en faire du traitement avancé, tel que la détection de mouvement ou encore la reconaissance de visage. 
+	C'est de cette librairie que s'étendra la grande partie software de la tête, consistant à faire de la détection de mouvement mais utilisant la stéréoscopie. Ceci devrait permettre de percevoir un mouvement en 3D. Le couplage avec la partie mécanique est la poursuite du mouvement par la tếte et les yeux à l'aide des servos inclus(et pilotés par l'arduino, lui même interfacé avec myrobotlab).
 
-	On est parti sur la tête. 
-	Débroussaillement de la vision. On a pensé à essayer d'implanter la stéréoscopie avec 2 caméras.
-
-	On a pour l'instant 1 caméra sur laquelle on a réussi a récuperer le flux video et le diffuser grace à VLC. Le but final étant de récuperer le flux de la caméra directement.
-	Nous avons recupere un software open source myrobotlab qui permet d'interface le robot avec un ordinateur. Nous nous en servirons pour piloter le robot et effectuer les traitements de motion tracking directement sur le pc pour envoyer par la suite les instructions vers le robot.
-
-	On a équipé la salle avec 1 alim, 1 oscillo, et de quoi monter des proto de cartes elec. On a quelques servo qu'on va essayer de faire marcher avec l'interface myrobotlab et un arduino uno. Ainsi on pourra controler Inmoov avec un ordinateur fixe.
-
-
-TODO :	Passer au fablab et rencontrer les gens, se renseigner sur l'orga.
-	Continuer le motion tracking
-	Réussir à interfacer servo / arduino / pc 
-	Faire un point sur les pièces à imprimer voir la dispo des 3D printers
-
-
+	Pour ce qui concerne le framework. Il est enfin fonctionnel sur les deux ordinateurs. L'étape de montage semble aussi effective, ce qui permettra de monter notre propre .jar lorsque nous aurons implémentés le service que nous voulons mettre en place (la poursuite du mouvement/visage). Le couplage de la caméra sur un linux est mauvais cependant un workaround est mis en place et effectif. Plutôt que le feed direct de la caméra, des fichiers en format libre (d'autant plus justifié de l'usage de librairies opensources telles que gstreamer et opencv) typiquement ogg contenant du theora avec vorbis. Elle peut également recevoir un stream vidéo du même format, testé et fonctionnel. Ce workaround pourra éventuellement être une solution choisie, car elle permettrai d'intégrer de l'IOT.
 
 
 III	-L'Internet des objets
