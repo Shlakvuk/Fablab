@@ -3,11 +3,8 @@ La TODOList, qui est une liste de TODO !
 
 TODO : 
 
--|IMPORTANT| Présentation du projet sur le forum du fablab. 
--|IMPORTANT| Passer au fablab et rencontrer les gens, se renseigner sur l'orga. (30/09/15)
--Choisir de faire ou non la finition de main (d'ici 02/09/15)
 -Réussir à interfacer servo / arduino / pc 
--Faire un point sur les pièces à imprimer voir la dispo des 3D printers
+	-Ecrire un test run
 -Mise en place de la théorie sur le motion tracking (avec stéréoscopie)
 	-Choix des filtres
 	-Avoir une seconde caméra, ou mettre un place un simili de stéréoscopie
@@ -19,6 +16,13 @@ TODO :
 Facultatif, juste pour idée de l'avancement. Pour plus de détails conférer Avancement.txt
 DONE : 
 
+(01/10/15)
+-Choisir de faire ou non la finition de main (Ben non pour le moment)
+-Présentation du projet sur le forum du fablab.
+-Faire un point sur les pièces à imprimer 
+
+(30/09/15)
+-Passer au fablab et rencontrer les gens, se renseigner sur l'orga. 
 -Commencer à se servir du soft ...
 -Etablissement de la liste des servos à acheter, et globalement du budget (avec et sans main)
 -Chercher le soft pour les caméras, ainsi qu'un open source pour la reco-faciale.
