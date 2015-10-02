@@ -6,6 +6,7 @@ Etat d'avancement du projet:
 #	-Pour le moment plus des concepts que des décisions exactes sur le développement. Pour plus de détails sur ces idées se conférer à Infos.txt. 
 #
 
+
 (30/09/15)
 
 Tête : 
@@ -15,7 +16,8 @@ Tête :
 	-Paramétrage de la caméra pour un flux vidéo accepté par gstreamer/openCv réussi. On peut donc utiliser le soft indirectement avec la caméra.
 	-Première prise en main de l'outil "Tracking" utilisation des premiers filtres et premier regard sur le code (l'architecture).
 	-Première visite du fablab à 18h jusqu'à ~20h.
-	-Choix de l'ordre de fabrication des pièces.	
+	-Choix de l'ordre de fabrication des pièces.
+	-Pièces validées, nous irons au fablab les imprimer.	
 
 Autres :
 		
@@ -26,7 +28,7 @@ Autres :
 
 Main :
 
-	-Décision de mettre de côté la main pour le moment, il nous faut évaluer le travail pour la tête dans un premier lieux. L'intérêt des fonctionnalités possibles de la tête nous attire plus pour le moment également.	
+	-Décision de mettre de côté la main pour le moment, il nous faut évaluer le travail pour la tête dans un premier lieu. L'intérêt des fonctionnalités possibles de la tête nous attire plus pour le moment également.	
 
 Tête : 
 
