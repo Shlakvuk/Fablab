@@ -4,7 +4,7 @@ La TODOList, qui est une liste de TODO !
 TODO : 
 
 
--Réussir à interfacer servo (OK) / arduino (OK) / pc (Presque OK)
+-Réussir à interfacer arduino / pc
 	-Ecrire un test run
 -Mise en place de la théorie sur le motion tracking (avec stéréoscopie)
 	-Choix des filtres
@@ -19,6 +19,7 @@ Facultatif, juste pour idée de l'avancement. Pour plus de détails conférer Av
 DONE : 
 
 (01/10/15)
+-Réussir à interfacer servo / arduino
 -Choisir de faire ou non la finition de main (Ben non pour le moment)
 -Présentation du projet sur le forum du fablab.
 -Faire un point sur les pièces à imprimer 
