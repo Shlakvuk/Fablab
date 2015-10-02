@@ -6,6 +6,11 @@ Etat d'avancement du projet:
 #	-Pour le moment plus des concepts que des décisions exactes sur le développement. Pour plus de détails sur ces idées se conférer à Infos.txt. 
 #
 
+(01/10/15)
+
+	-Pièces validées, nous irons au fablab les imprimer.
+	-Début d'étude sur la stéréoscopie (https://hal.inria.fr/file/index/docid/660174/filename/Fakhfakh_Nizar_DLE.pdf).
+	-Interfaçage arduino/servos
 
 (30/09/15)
 
@@ -17,7 +22,7 @@ Tête :
 	-Première prise en main de l'outil "Tracking" utilisation des premiers filtres et premier regard sur le code (l'architecture).
 	-Première visite du fablab à 18h jusqu'à ~20h.
 	-Choix de l'ordre de fabrication des pièces.
-	-Pièces validées, nous irons au fablab les imprimer.	
+	
 
 Autres :
 		
