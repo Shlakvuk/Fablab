@@ -12,6 +12,7 @@ TODO :
 	-Réaliser "HelloWorld" pour les services MRL
 	-intégrer la stéréoscopie
 -Aprofondissement dest librairies existantes (notamment fonctionnement des traitements d'image)
+-Rédaction des divers documents en anglais
 
 Facultatif, juste pour idée de l'avancement. Pour plus de détails conférer Avancement.txt
 DONE : 
