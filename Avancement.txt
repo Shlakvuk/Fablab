@@ -6,6 +6,11 @@ Etat d'avancement du projet:
 #	-Pour le moment plus des concepts que des décisions exactes sur le développement. Pour plus de détails sur ces idées se conférer à Infos.txt. 
 #
 
+(16/10/15)
+	-Premieres impressions ok, il manque 1 piece à ce jour pour le mecanisme des yeux
+	-Interfacage avec l'arduino / MRL ok.
+	-Il faut chercher un support pour le robot.
+
 (01/10/15)
 
 	-Pièces validées, nous irons au fablab les imprimer.
