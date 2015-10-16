@@ -3,6 +3,7 @@ La TODOList, qui est une liste de TODO !
 
 TODO : 
 
+-MAJ Wiki
 -Chercher un support pour le robot
 -Mise au point avec VB (théorie stereo).
 -Faire un shield pour l'arduino

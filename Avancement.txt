@@ -10,6 +10,7 @@ Etat d'avancement du projet:
 	-Premieres impressions ok, il manque 1 piece à ce jour pour le mecanisme des yeux
 	-Interfacage avec l'arduino / MRL ok.
 	-Il faut chercher un support pour le robot.
+	-Post ok. MAJ du wiki en cours
 
 (01/10/15)
 
