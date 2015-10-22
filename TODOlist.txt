@@ -5,20 +5,34 @@ TODO :
 
 -MAJ Wiki
 -Chercher un support pour le robot
--Mise au point avec VB (théorie stereo).
 -Faire un shield pour l'arduino
 -Monter le mecanisme des yeux
+-Mise au point avec VB (théorie stereo).
+	-Traitement d'image sur matlab, prototypage
+
+-Test de calibrage de caméra (avec les caméras finales)
+	-Portage C++ ?
+
 -Mise en place de la théorie sur le motion tracking (avec stéréoscopie)
 	-Choix des filtres
-	-Avoir une seconde caméra, ou mettre un place un simili de stéréoscopie
+	-Avoir une seconde caméra (commande effectuée) 
+
+
 -Mettre en place le service Myrobotlab
 	-Réaliser "HelloWorld" pour les services MRL
 	-intégrer la stéréoscopie
--Aprofondissement dest librairies existantes (notamment fonctionnement des traitements d'image)
--Rédaction des divers documents en anglais
+	-JNI ? (aussi Java AWT permettant de dessiner dans un canvas en NATIF)
+		-C++ tuto, basics etc
+		-IDE ?
+
+-Aprofondissement des librairies existantes (notamment fonctionnement des traitements d'image)
+-(facultatif) Rédaction des divers documents en anglais
 
 Facultatif, juste pour idée de l'avancement. Pour plus de détails conférer Avancement.txt
 DONE : 
+
+(23/10/15)
+-Test de calibrage de caméra
 
 (01/10/15)
 -Réussir à interfacer servo / arduino
